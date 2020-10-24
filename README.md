@@ -2,9 +2,9 @@
 
 ## Objetivos
 
-Hacer uso del paquete `sort` para ordenar un *slice*.
+- Hacer uso del paquete `sort` para ordenar un *slice*.
 
-Hacer uso del paquete `os` para crear y escribir en un archivo.
+- Hacer uso del paquete `os` para crear y escribir en un archivo.
 
 ## Descripción
 
